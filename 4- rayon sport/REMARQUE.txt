@@ -1,0 +1,1 @@
+Pourquoi y avait-il des problèmes d'intégrité sur l'application mobile ? Parce que le code était sous la forme checkedchanged au lieu de checked is true, du coup quand les personnes modifiaient les texte avant de valider ça prennait en compte que les premieres entrées !!!!

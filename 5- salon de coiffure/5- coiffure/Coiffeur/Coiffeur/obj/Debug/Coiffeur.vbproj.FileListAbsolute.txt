@@ -1,0 +1,63 @@
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.pdb
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.xml
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.GenerateResource.Cache
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.exe
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.fenetreprincipale.resources
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.nouveausoin.resources
+C:\Users\Utilisation\Documents\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Form3.resources
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.fenetreprincipale.resources
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.nouveausoin.resources
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Form3.resources
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Resources.resources
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.GenerateResource.Cache
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.pdb
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.xml
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.exe
+F:\BTS\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\3- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbprojResolveAssemblyReference.cache
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb
+G:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+G:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+G:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.fenetreprincipale.resources
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.nouveausoin.resources
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Form3.resources
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Resources.resources
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.GenerateResource.Cache
+H:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+H:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+H:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.pdb
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.xml
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbprojAssemblyReference.cache
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.CoreCompileInputs.cache
+F:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.exe
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe.config
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.exe
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.pdb
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\bin\Debug\Coiffeur.xml
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.AssemblyReference.cache
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.SuggestedBindingRedirects.cache
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.fenetreprincipale.resources
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.nouveausoin.resources
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Form3.resources
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\WindowsApplication1.Resources.resources
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.GenerateResource.cache
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.vbproj.CoreCompileInputs.cache
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.exe
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.xml
+D:\BTS\BLOC 1\Programmation\5- salon de coiffure\5- coiffure\Coiffeur\Coiffeur\obj\Debug\Coiffeur.pdb

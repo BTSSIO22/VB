@@ -1,0 +1,20 @@
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\bin\Debug\CommandePizza.exe.config
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\bin\Debug\CommandePizza.exe
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\bin\Debug\CommandePizza.pdb
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\bin\Debug\CommandePizza.xml
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\obj\Debug\WindowsApplication1.frmPizza.resources
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\obj\Debug\CommandePizza.vbproj.GenerateResource.Cache
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\obj\Debug\CommandePizza.exe
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\obj\Debug\CommandePizza.xml
+C:\Users\Utilisation\Documents\Visual Studio 2013\Projects\CommandePizza\CommandePizza\obj\Debug\CommandePizza.pdb
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\bin\Debug\CommandePizza.exe.config
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\obj\Debug\CommandePizza.exe
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\obj\Debug\CommandePizza.xml
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\obj\Debug\CommandePizza.pdb
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\bin\Debug\CommandePizza.exe
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\bin\Debug\CommandePizza.pdb
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\bin\Debug\CommandePizza.xml
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\obj\Debug\WindowsApplication1.frmPizza.resources
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\obj\Debug\WindowsApplication1.Resources.resources
+G:\BLOC 1\B1.2 Répondre aux incidents et demandes d'assistance et évolution\Traiter DDES concernant services réseau et système (SK)\2- vente de Pizza\Vente de pizza APP\CommandePizza\obj\Debug\CommandePizza.vbproj.GenerateResource.Cache
